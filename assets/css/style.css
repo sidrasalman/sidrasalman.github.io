@@ -448,3 +448,11 @@ body {
   .py-10 {
       padding: 10px 0;
   }
+
+.copyright {
+    font-size: 11px;
+}
+
+.copyright a {
+    font-weight: 600;
+}
