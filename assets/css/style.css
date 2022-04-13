@@ -211,6 +211,12 @@ body {
     display: none;
 }
 
+.res-menu-icon .menu-icon {
+    border: 0;
+    outline: 0;
+    background: transparent;
+}
+
 .res-menu-icon a {
     color: #000000;
     font-size: 25px;
@@ -233,6 +239,13 @@ body {
     line-height: 25px;
     color: #333333 !important;
     display: none;
+    outline: 0;
+    border:  0;
+    background-color: transparent;
+}
+
+.menu-close:focus {
+    outline: 0;
 }
 
 
